@@ -3044,7 +3044,7 @@ input, select, textarea {
 /* Features */
 	.features article .image {
 		  width: 100%;              /* full article width */
-		  aspect-ratio: 16 / 9;     /* lock the box to 16∶9 */
+		  aspect-ratio: 16 / 12;     /* lock the box to 16∶9 */
 		  overflow: hidden;         /* hide any overflow */
 		  margin: 0 0 1.75em 0;     /* reset the weird negative margins */
 		  border-radius: 5px 5px 0 0; /* match your template’s rounding */
